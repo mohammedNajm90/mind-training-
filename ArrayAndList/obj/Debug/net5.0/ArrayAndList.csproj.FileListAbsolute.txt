@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.exe
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.deps.json
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.dll
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ref\ArrayAndList.dll
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\bin\Debug\net5.0\ArrayAndList.pdb
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.dll
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ref\ArrayAndList.dll
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.pdb
+C:\Users\LENOVO\source\repos\ArrayAndList\ArrayAndList\obj\Debug\net5.0\ArrayAndList.genruntimeconfig.cache

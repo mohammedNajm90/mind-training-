@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STRING_MANIPULATION")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a539ed8047cfa1abd65277c2e11b8f7c55a7f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("STRING_MANIPULATION")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STRING_MANIPULATION")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

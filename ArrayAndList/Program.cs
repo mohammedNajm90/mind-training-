@@ -74,6 +74,24 @@ namespace ArrayAndList
             //Find the average of a list of grades.
             List<object> listToFindAvg = new List<object> { 80, 90, 100 };
             Console.WriteLine(Solutions.AverageOfList(listToFindAvg));
+
+            //Remove Deplicated Word
+            List<object> listToRemoveDeplicated = new List<object> { 1, 2, 2, 3 };
+            HashSet<object> listAfterDeplicatedWOrdRemoved = Solutions.RemoveDeplicatedWord(listToRemoveDeplicated);
+            foreach(int i in listAfterDeplicatedWOrdRemoved)
+                Console.Write(i + " ");
+            Console.WriteLine();
+
+            //Find the maximum and minimum in a list.
+            List<int> listToPrintMinMax = new List<int> { 5, 4, 9, 3, 6 };
+            Console.WriteLine(Solutions.GetMinMax(listToPrintMinMax));
+
+            //Create a list from a string of comma-separated numbers.
+            String myString = "2,3,4,5";
+            List<Object> listFromString = new List<Object>();
+            listFromString = Solutions.CreateListFromStringOfCommaSeparatedNumbers(myString);
+            HelperMethods.PrintList(listFromString);
+
         }
     }
 }

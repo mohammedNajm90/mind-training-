@@ -446,5 +446,86 @@ namespace ArrayAndList
                 return 0;
             }
         }
+
+        //Method to Remove duplicates from a list.
+        public static HashSet<object> RemoveDeplicatedWord(List<object> myList)
+        {
+            try
+            {
+                //Safety check to check if input is empty
+                HelperMethods.ListSafetyCheck(myList);
+                HashSet<object> set = new HashSet<object>(myList);
+                return set;
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return new HashSet<object>();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Unexpected error: {ex.Message}");
+                return new HashSet<object>();
+            }
+        }
+
+        //Method to Find the maximum and minimum in a list.
+        public static (int min, int max) GetMinMax(List<int> myList)
+        {
+            try
+            {
+                //Safety check to check if input is empty
+                //HelperMethods.ListSafetyCheck(myList);
+                int min = myList[0];
+                int max = myList[0];
+
+                foreach (int num in myList)
+                {
+                    if (num < min) min = num;
+                    if (num > max) max = num;
+                }
+
+                return (min, max);
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return (0,0);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Unexpected error: {ex.Message}");
+                return (0,0);
+            }
+        }
+
+        //Method to Create a list from a string of comma-separated numbers.
+        public static List<object> CreateListFromStringOfCommaSeparatedNumbers (String sentance)
+        {
+            try
+            {
+                //Safety check to check if input is empty
+                HelperMethods.ItemSafetyCheck(sentance);
+
+                string[] parts = sentance.Split(',');
+                List<object> numbers = new List<object>();
+
+                foreach (string part in parts)
+                {
+                    numbers.Add(int.Parse(part));
+                }
+                return numbers;
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                return new List<object>();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Unexpected error: {ex.Message}");
+                return new List<object>();
+            }
+        }
     }
 }

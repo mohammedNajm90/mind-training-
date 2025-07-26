@@ -82,20 +82,28 @@ namespace ArrayAndListTasks
             Console.WriteLine(numbers.Concat(1));
         }
         //9.Count how many times a value appears in a list.
-        public static void Count()
+        public static void Count(int num)
         {
-            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 1 };
-            int count = 0;
-            for (int i = 0; i < numbers.Count; i++)
+            try
             {
-                if (numbers[i] == 1)
+                List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 1 };
+                int count = 0;
+                for (int i = 0; i < numbers.Count; i++)
                 {
-                    count++;
+                    if (numbers[i] == num)
+                    {
+                        count++;
+                    }
+
                 }
+                Console.WriteLine(count);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine( ex.Message);
 
             }
-            Console.WriteLine(count);
-        }
+            }
         //10. Get the index of a specific value in a list.
         public static void IndexOfValue()
         {
@@ -278,5 +286,49 @@ namespace ArrayAndListTasks
                 Console.WriteLine($"'{i.Key}': {i.Value}");
             }
         }
+        //27. Flatten a list of lists.
+        public static void FlattenListOfLists()
+        {
+            string input = "[[1,2],[3,4]]";
+
+            int[] flattened = input.Replace("[", "").Replace("]", "").Split(',').Select(int.Parse).ToArray();
+            Console.WriteLine("Flattened List:");
+            Console.WriteLine("[" + string.Join(", ", flattened) + "]");
+        }
+        //28.Get unique elements from a list.
+        public static void UniqueElements() {
+            List<int> numbers = new List<int> { 1, 2, 2, 3, 4, 4, 5 };
+            List<int> unique = numbers.Distinct().ToList();
+            foreach (int num in unique)
+            {
+                Console.WriteLine(num);
+            }
+        }
+        //29. Rotate a list left by 2 positions.
+        public static void Rotate()
+        {
+            List<int> input = new List<int> { 1, 2, 3, 4 };
+            int shift = 2;
+            List<int> rotated = input.Skip(shift).Concat(input.Take(shift)).ToList();
+            Console.WriteLine($"[{string.Join(", ", rotated)}]");
+        }
+        //30.Count how many strings start with a specific letter.
+        public static void StartWith(char StartWith)
+        {
+            List<string> input = new List<string> { "apple", "banana" };
+            int count = 0;
+            for (int i = 0; i < input.Count; i++)
+            {
+
+                if (input[i].StartsWith(StartWith.ToString()))
+                {
+                    count++;
+                }
+
+            }
+            Console.WriteLine($"StartWith'{StartWith}'->{count}");
+        }
+        //32.Group a list of words by their starting letter.
+
     }
-    }
+}

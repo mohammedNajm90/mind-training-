@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\OOPExcercises\\OOPExcercises\\OOPExcercises.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ArrayAndList\\OOPExcercises\\OOPExcercises\\OOPExcercises.csproj",
       "projectName": "OOPExcercises",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\OOPExcercises\\OOPExcercises\\OOPExcercises.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ArrayAndList\\OOPExcercises\\OOPExcercises\\OOPExcercises.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\OOPExcercises\\OOPExcercises\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ArrayAndList\\OOPExcercises\\OOPExcercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

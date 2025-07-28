@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.exe
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.deps.json
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.runtimeconfig.json
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.dll
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\ref\OOPExcercises.dll
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\bin\Debug\net5.0\OOPExcercises.pdb
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.dll
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\ref\OOPExcercises.dll
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.pdb
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\OOPExcercises\OOPExcercises\obj\Debug\net5.0\OOPExcercises.csproj.AssemblyReference.cache

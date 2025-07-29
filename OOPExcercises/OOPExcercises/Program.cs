@@ -31,8 +31,9 @@ namespace OOPExcercises
             bankAccount.Deposit(20.00);
             Console.WriteLine(bankAccount.Balance);
 
-            Book book = new Book("Learn how to code", "Moosa", 100);
-            Console.WriteLine(book.get_discounted_price(20));
+            Book book1 = new Book("Learn how to code", "Moosa", 100);
+            Book book2 = new Book("Learn English", "Ali", 150);
+            Console.WriteLine(book1.get_discounted_price(20));
 
             ShoppingCart cart = new ShoppingCart();
             cart.AddProduct("bread", 1000);
@@ -41,6 +42,24 @@ namespace OOPExcercises
             cart.RemoveProduct("milk");
             Console.WriteLine(cart.TotalPrice());
 
+            Square shape = new Square(5.0);
+            Console.WriteLine(shape.Area());
+
+            Library library = new Library();
+            library.AddBook(book1);
+            library.AddBook(book2);
+            library.ShowBooks();
+            library.RemoveBook("Learn English");
+            library.ShowBooks();
+
+            Employee employee = new Employee("Ahmed",27,1000);
+            employee.greet();
+
+            Calculator calculator = new Calculator(9, 3);
+            calculator.Add();
+            calculator.Subtract();
+            calculator.Multiply();
+            calculator.Divide();
 
         }
     }

@@ -1,0 +1,32 @@
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\LENOVO\source\repos\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\LENOVO\source\repos\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.exe
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.deps.json
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.dll
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\ref\Bank.dll
+E:\Backup Files\Bank\Bank\bin\Debug\net5.0\Bank.pdb
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.dll
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\ref\Bank.dll
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.pdb
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+E:\Backup Files\Bank\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
